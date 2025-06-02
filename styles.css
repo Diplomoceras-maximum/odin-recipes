@@ -48,3 +48,30 @@ body {
   color: #000000;
   font-weight: bold;
 }
+
+.recipe-header {
+  margin: 32px;
+  padding: 16px;
+  background-color: rgb(205, 210, 238);
+  text-align: center;
+}
+
+.recipe-title {
+  font-size: 32px;
+  padding: 16px;
+  font-style: bold;
+}
+
+.recipe-nav {
+  height: 2rem;
+  padding: 8px 16px;
+}
+
+.main-link {
+  color: black;
+  text-decoration: none;
+  border: 3px solid black;
+  padding: 8px 16px;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
